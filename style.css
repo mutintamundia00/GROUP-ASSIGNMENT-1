@@ -1,0 +1,22 @@
+body {
+    background-color:grey ;
+}
+h1 {
+    color: peachpuff;
+    text-align: center;
+    font-style: italic;
+    font-size: large;
+}
+h2 {
+    color: pink;
+    text-align: center;
+    font-style: italic;
+    font-size: larger;
+}
+p {
+   background-color: teal; color: gold; text-align: center;font-style: italic; 
+}
+img {
+    width: 1440px;
+    height: 900px;
+}
